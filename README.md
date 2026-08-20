@@ -1,9 +1,9 @@
 ## Hi there I'm Jaden 👋
 
-Should be doing LeetCode and projects, but only doing Leetcode and procastinating on projects.
+Should be doing LeetCode and projects, but currently only doing Leetcode and slacking on projects.
 
 - Currently secretly competing with someone on neetcode
-- Want to work on my project, but I'm a bum
+- Need to work on my project.
 
 <!--
 **PaperTop/PaperTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
